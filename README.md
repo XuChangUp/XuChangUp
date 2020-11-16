@@ -22,7 +22,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML and Blockchain
 - 💬 Ask me about anything related to Java/Python
-- 😄 Fun fact: I :heart: 🇨🇳
+- 😄 Fun fact: I :heart: :cat:
 
 📊 **This week I spent my time on**
 
